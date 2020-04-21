@@ -1,11 +1,11 @@
 ;=========================================================================
 ; Name & Email must be EXACTLY as in Gradescope roster!
 ; Name: Ana Cardenas Beltran
-; Email: acard079@ucr.edu
+; Email: 
 ; 
 ; Assignment name: Assignment 1
-; Lab section: 22
-; TA: David Feng
+; Lab section: 
+; TA: 
 ; 
 ; I hereby certify that I have not received assistance on this assignment,
 ; or used code, from ANY outside source other than the instruction team
