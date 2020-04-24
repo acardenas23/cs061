@@ -1,8 +1,8 @@
 ;=================================================
 ; Name: Ana Cardenas Beltran
-; Email: acard079@ucr.edu
+; Email: 
 ; 
-; Lab: lab 3, ex 1
+; Lab: lab 4, ex 1
 ; Lab section: 21
 ; TA: David Feng
 ; 
