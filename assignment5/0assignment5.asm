@@ -40,22 +40,6 @@ MENU_3200		.FILL x3200
 newline 		.fill '\n'
 ASCII_48_MAIN	.FILL #-48
 
-; Strings for reports from menu subroutines:
-goodbye         .stringz "Goodbye!\n"
-allbusy         .stringz "All machines are busy\n"
-allnotbusy      .stringz "Not all machines are busy\n"
-allfree         .stringz "All machines are free\n"
-allnotfree		.stringz "Not all machines are free\n"
-busymachine1    .stringz "There are "
-busymachine2    .stringz " busy machines\n"
-freemachine1    .stringz "There are "
-freemachine2    .stringz " free machines\n"
-status1         .stringz "Machine "
-status2		    .stringz " is busy\n"
-status3		    .stringz " is free\n"
-firstfree1      .stringz "The first available machine is number "
-firstfree2      .stringz "No machines are free\n"
-
 
 ;-----------------------------------------------------------------------------------------------------------------
 ; Subroutine: MENU
